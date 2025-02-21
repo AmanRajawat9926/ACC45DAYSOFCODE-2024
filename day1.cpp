@@ -26,7 +26,7 @@ using namespace std;
     }
 
 int main(){
-    vector<int> v={2,7,11,15};
+    vector<int> v={2,7,11,9};
     int target = 9;
 
     vector<int> res = twoSum(v,target);
